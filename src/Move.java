@@ -1,0 +1,9 @@
+public enum Move {
+    NORMAL,
+    EN_PASSANT,
+    PAWN_PROMOTION,
+    QUEEN_SIDE_CASTLE,
+    KING_SIDE_CASTLE,
+    BEATEN;
+
+}
