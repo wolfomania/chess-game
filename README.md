@@ -11,7 +11,6 @@ A simple console chess game, made as one of the projects, assigned during the fi
 ## Project Requirements
 
 Implement a fully functional chess game using the object-oriented programming concepts presented during the classes. 
-Divide the program into logical and visual parts. 
 In the logical part, implement all the issues related to the actors on the board (pawns and pieces), 
 while in the visual part, implement a text representation of the board with pawns and pieces.
 <br> <br>Make sure that there is the possibility to save and load the game board at any point
